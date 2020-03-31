@@ -1,7 +1,7 @@
 #!/bin/sh
 project_path=`pwd`
 cd $1
-echo 'Enter Folder name'
+echo 'Enter Repository name'
 read folder_name
 mkdir $folder_name
 cd $folder_name
