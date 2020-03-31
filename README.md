@@ -28,7 +28,7 @@ Add ChromeDriver Path, Github Username and Password.
 
 # How Does It Work?
 
-Run the shell script from bash/terminal/cmd as 
+Run the shell script from bash/terminal/cmd as
 ```
 ./create_project.sh <path_of_the_project>
 ```
@@ -36,7 +36,7 @@ Run the shell script from bash/terminal/cmd as
 Example
 If I want my project in Documents folder I will run the command
 ```
-.\create_project.sh C:\Users\Asus\Documents
+./create_project.sh C:\Users\Asus\Documents
 ```
 
 You will be prompted to enter a Repository name.
