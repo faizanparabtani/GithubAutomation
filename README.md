@@ -26,7 +26,7 @@ Add ChromeDriver Path, Github Username and Password.
 2) git Bash
 3) Chromewebdriver https://chromedriver.chromium.org/downloads
 
-#How Does It Work?
+# How Does It Work?
 
 Run the shell script from bash/terminal/cmd as ./create_project.sh <path_of_the_project>.
 Example
@@ -35,6 +35,11 @@ If I want my project in Documents folder I will run the command
 
 You will be prompted to enter a Repository name.
 This Repository name will be same on your local machine as well as Github.
+
+The webscraper script will login for you with the creedentials provided.
+It will create a new Repository.
+
+The shell script again will connect the local repository to the Github Repository.
 
 Sit back and within 10 seconds you will be having an online Github Repository connected to your system.
 
