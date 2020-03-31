@@ -31,7 +31,9 @@ Add ChromeDriver Path, Github Username and Password.
 Run the shell script from bash/terminal/cmd as ./create_project.sh <path_of_the_project>.
 Example
 If I want my project in Documents folder I will run the command
+```
 .\create_project.sh C:\Users\Asus\Documents
+```
 
 You will be prompted to enter a Repository name.
 This Repository name will be same on your local machine as well as Github.
@@ -42,8 +44,3 @@ It will create a new Repository.
 The shell script again will connect the local repository to the Github Repository.
 
 Sit back and within 10 seconds you will be having an online Github Repository connected to your system.
-
-
-
-
-
