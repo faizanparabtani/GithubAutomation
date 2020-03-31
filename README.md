@@ -38,7 +38,7 @@ If I want my project in Documents folder I will run the command
 You will be prompted to enter a Repository name.
 This Repository name will be same on your local machine as well as Github.
 
-The webscraper script will login for you with the creedentials provided.
+The webscraper script will login for you with the credentials provided.
 It will create a new Repository.
 
 The shell script again will connect the local repository to the Github Repository.
